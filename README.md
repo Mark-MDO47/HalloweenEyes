@@ -30,24 +30,39 @@ There are some great resources that allow us to operate at a higher level than I
 
 ### Ultralytics
 This seems to be mostly for image processing based on YOLOv5 and YOLOv8 (YOLO in this context means You Only Look Once).
-
-Seems to allow moving trained models to different formats for implementation on inexpensive hardware. They also have a cool Ultralytics AP that allows you to run it on your smart phone (either type).
-
-Ultralytics is especially interesting to me since I can download the training software and (slowly) train on my own equipment. I am not anxious to (for instance) upload photos or voice captures of my family to the internet.
+- Seems to allow moving trained models to different formats for implementation on inexpensive hardware. They also have a cool Ultralytics AP that allows you to run it on your smart phone (either type).
+= Ultralytics is especially interesting to me since I can download the training software and (slowly) train on my own equipment. I am not anxious to (for instance) upload photos or voice captures of my family to the internet.
 
 Here are some entries to the Ultralytics world:
 - https://www.ultralytics.com/
 - https://github.com/ultralytics
 - https://github.com/ultralytics/ultralytics
-- https://hub.ultralytics.com/home
+- https://hub.ultralytics.com/home - free-level account available
 - https://www.youtube.com/watch?v=hHyHmOtmEgs&list=PL1FZnkj4ad1PFJTjW4mWpHZhzgJinkNV0&index=46 - this person tracking seems ideally suited for us
 
 ### Edge Impulse
 This has a broad application range - images, speech, keyword detection, motion.
+- Very good integration to allow moving trained models to different formats for implementation on inexpensive hardware. There are some known examples such as ESP32-CAM where some pin assignments were changed from an existing officially supported target and made to work, although not officially supported.
+- I have not yet found a way to do the training on my own hardware. On the plus side, their Internet-based training facilities are extremely easy to use and seem quite comprehensive.
 
-Very good integration to allow moving trained models to different formats for implementation on inexpensive hardware. There are some known examples such as ESP32-CAM where some pin assignments were changed from an existing officially supported target and made to work, although not officially supported.
+Here are some entries to the Edge Impulse world:
+- https://studio.edgeimpulse.com/studio - free-level account available
+- https://edge-impulse.gitbook.io/docs
+- https://edge-impulse.gitbook.io/docs/tutorials/end-to-end-tutorials/image-classification
+- https://edge-impulse.gitbook.io/docs/edge-ai-hardware/edge-ai-hardware
+- https://edge-impulse.gitbook.io/docs/run-inference/arduino-library
 
-I have not yet found a way to do the training on my own hardware. On the plus side, their Internet-based training facilities are extremely easy to use and seem quite comprehensive.
+### OpenCV
+Seems to have an emphasis on face recognition.
+- They have lots of courses. I signed up for free "OpenCV Bootcamp" and "TensorFlow Keras" courses.
 
-Here are some entries to the TinyML world:
+I haven't explored them too much but so far they look very good.
+- https://opencv.org/ - free-level account available
+- https://opencv.org/university
 
+### TinyML EDU
+This also looks quite interesting. I have just started exploring. They obviously have courses and an interesting PDF book "TinyML-Made-Easy.pdf". Lots of activity from them on hackster.io and some cross-pollination with Edge Impulse.
+- https://tinyml.seas.harvard.edu/
+- https://github.com/tinyMLx
+- https://www.hackster.io/mjrobot/tinyml-made-easy-object-detection-with-xiao-esp32s3-sense-6be28d
+- https://www.hackster.io/mjrobot/tinyml-made-easy-image-classification-w-xiao-esp32s3-sense-cb42ae
