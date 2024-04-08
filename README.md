@@ -91,6 +91,6 @@ ML stands for Machine Learning. This also looks quite interesting. I have just s
 [Top](#halloweeneyes "Top")<br>
 I have listed the MIT license which covers any code or comments or materials I put here.
 
-[Top](#halloweeneyes "Top")<br>
-
 Obviously if I use some source that is controlled by a different license, it retains that license.
+
+[Top](#halloweeneyes "Top")<br>
