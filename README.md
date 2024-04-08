@@ -5,8 +5,8 @@ Eyes in a plastic skull that detect and track people.
 John and I will make a plastic skull with one or two eyes that will follow people. If there are multiple people, it will follow one for a while then choose another and follow that for a while.
 - Based on https://learn.adafruit.com/hallowing-all-seeing-skull.
 - Upgrades to use Artificial Intelligence image processing - face tracking
-  - Maybe using Ultralytics approach https://www.youtube.com/watch?v=hHyHmOtmEgs&list=PL1FZnkj4ad1PFJTjW4mWpHZhzgJinkNV0&index=46
-  - Maybe using TinyML approach
+  - Maybe using Ultralytics and YOLOv8 approach https://www.youtube.com/watch?v=hHyHmOtmEgs&list=PL1FZnkj4ad1PFJTjW4mWpHZhzgJinkNV0&index=46
+  - Maybe using TinyML approach https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7
   - Maybe using OpenCV approach
 
 
@@ -15,7 +15,39 @@ Still selecting hardware but probably the following:
 
 | Purpose | Choice(s) | Comments |
 | --- | --- | --- |
+| plastic skull | Life Size Skeleton Skull for Halloween Decor | https://www.amazon.com/gp/product/B0C777NBDJ |
 | eyes | Adafruit HalloWing M4 Express | https://www.adafruit.com/product/4300 |
 | eye accessories | Clear Acrylic Lens Holder | https://www.adafruit.com/product/4013 |
 | eye accessories | Convex Glass Lens with Edge | https://www.adafruit.com/product/3853 |
-| AI & vision | maybe Seeed Studio XIAO ESP32S3 Sense | https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html |
+| AI & vision | maybe Seeed Studio XIAO ESP32S3 Sense<br>includes microphone | https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html |
+| AI & vision | maybe Seeed Studio Vision AI Module V2 | https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880<br>currently backorder https://us.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html?___store=us |
+| AI & vision | maybe Sipeed Maixduino AI Development Board<br>K210 RISC-V AI+lOT ESP32 | https://www.dfrobot.com/product-1972.html |
+| AI & vision | maybe Aideepen ESP32-CAM W BT Board<br>inexpensive, maybe fast enough | https://www.amazon.com/dp/B0948ZFTQZ |
+
+## The AI Software
+There are some great resources that allow us to operate at a higher level than I have done before. I **REALLY** like all of these!
+- Please take my comments with a grain of salt. They are just my opinions after doing a quick survey. As I get more experience with them I may need to change my thinking on these.
+
+### Ultralytics
+This seems to be mostly for image processing based on YOLOv5 and YOLOv8 (YOLO in this context means You Only Look Once).
+
+Seems to allow moving trained models to different formats for implementation on inexpensive hardware. They also have a cool Ultralytics AP that allows you to run it on your smart phone (either type).
+
+Ultralytics is especially interesting to me since I can download the training software and (slowly) train on my own equipment. I am not anxious to (for instance) upload photos or voice captures of my family to the internet.
+
+Here are some entries to the Ultralytics world:
+- https://www.ultralytics.com/
+- https://github.com/ultralytics
+- https://github.com/ultralytics/ultralytics
+- https://hub.ultralytics.com/home
+- https://www.youtube.com/watch?v=hHyHmOtmEgs&list=PL1FZnkj4ad1PFJTjW4mWpHZhzgJinkNV0&index=46 - this person tracking seems ideally suited for us
+
+### Edge Impulse
+This has a broad application range - images, speech, keyword detection, motion.
+
+Very good integration to allow moving trained models to different formats for implementation on inexpensive hardware. There are some known examples such as ESP32-CAM where some pin assignments were changed from an existing officially supported target and made to work, although not officially supported.
+
+I have not yet found a way to do the training on my own hardware. On the plus side, their Internet-based training facilities are extremely easy to use and seem quite comprehensive.
+
+Here are some entries to the TinyML world:
+
