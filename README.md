@@ -1,6 +1,8 @@
 # HalloweenEyes
 Eyes in a plastic skull that detect and track people.
 
+**Table Of Contents**
+
 ## The Plan
 John and I will make a plastic skull with one or two eyes that will follow people. If there are multiple people, it will follow one for a while then choose another and follow them for a while.
 - Based on https://learn.adafruit.com/hallowing-all-seeing-skull.
@@ -30,8 +32,10 @@ There are some great resources that allow us to operate at a higher level than I
 
 ### Ultralytics
 This seems to be mostly for image processing based on YOLOv5 and YOLOv8 (YOLO in this context means You Only Look Once).
-- Seems to allow moving trained models to different formats for implementation on inexpensive hardware. They also have a cool Ultralytics AP that allows you to run it on your smart phone (either type).
-= Ultralytics is especially interesting to me since I can download the training software and (slowly) train on my own equipment. I am not anxious to (for instance) upload photos or voice captures of my family to the internet.
+- Seems to allow moving trained models to different formats for implementation on inexpensive hardware.
+- They also have a cool Ultralytics AP that allows you to run it on your smart phone (either type).
+- Ultralytics is especially interesting to me since I can download the training software and (slowly) train on my own equipment.
+  - I am not anxious to (for instance) upload photos or voice captures of my family to the internet.
 
 Here are some entries to the Ultralytics world:
 - https://www.ultralytics.com/
