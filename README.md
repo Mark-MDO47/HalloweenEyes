@@ -66,3 +66,8 @@ This also looks quite interesting. I have just started exploring. They obviously
 - https://github.com/tinyMLx
 - https://www.hackster.io/mjrobot/tinyml-made-easy-object-detection-with-xiao-esp32s3-sense-6be28d
 - https://www.hackster.io/mjrobot/tinyml-made-easy-image-classification-w-xiao-esp32s3-sense-cb42ae
+
+## License
+I have listed the MIT license which covers any code or comments or materials I put here.
+
+Obviously if I use some source that is controlled by a different license, it retains that license.
