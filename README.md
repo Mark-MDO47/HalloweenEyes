@@ -2,6 +2,15 @@
 Eyes in a plastic skull that detect and track people.
 
 **Table Of Contents**
+* [Top](#halloweeneyes "Top")
+* [The Plan](#the-plan "The Plan")
+* [The Hardware](#the-hardware "The Hardware")
+* [The AI Software](#the-ai-software "The AI Software")
+  * [Ultralytics](#ultralytics "Ultralytics")
+  * [Edge Impulse](#edge-impulse "Edge Impulse")
+  * [OpenCV](#opencv "OpenCV")
+  * [TinyML EDU](#tinyml-edu "TinyML EDU")
+* [License](#license "License")
 
 ## The Plan
 John and I will make a plastic skull with one or two eyes that will follow people. If there are multiple people, it will follow one for a while then choose another and follow them for a while.
