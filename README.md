@@ -53,7 +53,7 @@ Here are some entries to the Edge Impulse world:
 - https://edge-impulse.gitbook.io/docs/run-inference/arduino-library
 
 ### OpenCV
-Seems to have an emphasis on face recognition.
+CV stands for Computer Vision. Seems to have an emphasis on face recognition.
 - They have lots of courses. I signed up for free "OpenCV Bootcamp" and "TensorFlow Keras" courses.
 
 I haven't explored them too much but so far they look very good.
@@ -61,7 +61,7 @@ I haven't explored them too much but so far they look very good.
 - https://opencv.org/university
 
 ### TinyML EDU
-This also looks quite interesting. I have just started exploring. They obviously have courses and an interesting PDF book "TinyML-Made-Easy.pdf". Lots of activity from them on hackster.io and some cross-pollination with Edge Impulse.
+ML stands for Machine Learning. This also looks quite interesting. I have just started exploring. They obviously have courses; also an interesting PDF book "TinyML-Made-Easy.pdf". Lots of activity from them on hackster.io and some cross-pollination with Edge Impulse.
 - https://tinyml.seas.harvard.edu/
 - https://github.com/tinyMLx
 - https://www.hackster.io/mjrobot/tinyml-made-easy-object-detection-with-xiao-esp32s3-sense-6be28d
