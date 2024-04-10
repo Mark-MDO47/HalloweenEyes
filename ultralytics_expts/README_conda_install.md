@@ -8,7 +8,9 @@ The following is the corresponding torchvision versions and supported Python ver
 | 2.1 | 0.16 | >=3.8, <=3.11 |
 | 2.0 | 0.15 | >=3.8, <=3.11 |
 
-- conda install -c conda-forge ultralytics
+- conda create --name ultralytics-env python=3.8 -y
+- conda activate ultralytics-env
+- conda install -c conda-forge ultralytics-env
 - conda install pytorch::pytorch
   - NOTE: pytorch is 2.2
 - conda install torchvision=0.17
