@@ -89,7 +89,7 @@ ML stands for Machine Learning. This also looks quite interesting. I have just s
 
 ## License
 [Top](#halloweeneyes "Top")<br>
-I have listed the MIT license which covers any code or comments or materials I put here.
+I have listed the MIT license which covers any code or comments or materials I create and put here.
 
 Obviously if I use some source that is controlled by a different license, it retains that license.
 
