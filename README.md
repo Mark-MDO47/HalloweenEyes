@@ -32,7 +32,7 @@ Still selecting hardware but probably the following:
 | eyes | Adafruit HalloWing M4 Express | https://www.adafruit.com/product/4300 |
 | eye accessories | Clear Acrylic Lens Holder | https://www.adafruit.com/product/4013 |
 | eye accessories | Convex Glass Lens with Edge | https://www.adafruit.com/product/3853 |
-| AI & vision | maybe Seeed Studio XIAO ESP32S3 Sense<br>includes microphone | https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html<br>https://www.youtube.com/watch?v=_wvuOsRgmt4 |
+| AI & vision | maybe Seeed Studio XIAO ESP32S3 Sense<br>includes microphone | https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html<br>https://www.youtube.com/watch?v=_wvuOsRgmt4<br>https://github.com/limengdu/SeeedStudio-XIAO-ESP32S3-Sense-camera |
 | AI & vision | maybe Seeed Studio Vision AI Module V2 | https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880<br>currently backorder https://us.seeedstudio.com/Grove-Vision-AI-V2-Kit-p-5852.html?___store=us |
 | AI & vision | maybe Sipeed Maixduino AI Development Board<br>K210 RISC-V AI+lOT ESP32 | https://www.dfrobot.com/product-1972.html |
 | AI & vision | maybe Aideepen ESP32-CAM W BT Board<br>inexpensive, maybe fast enough | https://www.amazon.com/dp/B0948ZFTQZ |
