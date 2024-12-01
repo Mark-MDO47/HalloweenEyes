@@ -1,6 +1,7 @@
 # XIAO ESP32S3 Sense
 **Table Of Contents**
 * [Top](#xiao-esp32s3-sense "Top")
+* [ESP32S3 Sense Information](#esp32s3-sense-information "ESP32S3 Sense Information")
 * [Arduino IDE setup](#arduino-ide-setup "Arduino IDE setup")
 * [Mods for Blink](#mods-for-blink "Mods for Blink")
 * [Mods for CameraWebServer](#mods-for-camerawebserver "Mods for CameraWebServer")
