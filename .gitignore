@@ -162,3 +162,7 @@ cython_debug/
 # Ultralytics
 *.pt
 ultralytics_expts/runs/
+
+# General Mark Stuff
+wifi_key.h
+
