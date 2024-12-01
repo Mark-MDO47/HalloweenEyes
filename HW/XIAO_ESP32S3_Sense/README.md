@@ -7,6 +7,12 @@
 
 ## Arduino IDE setup
 [Top](#xiao-esp32s3-sense "Top")<br>
+This shows how to select the XIAO ESP32S3 Sense board in Arduino IDE.<br>
+<img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Board_Arduino.png" width="600" alt="Selecting XIAO ESP32S3 Sense board in Arduino IDE">
+
+Then enable the OPI PSRAM as shown here.<br>
+<img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Board_Arduino.png" width="600" alt="Enable XIAO ESP32S3 Sense OPI PSRAM in Arduino IDE">
+
 
 ## Mods for Blink
 [Top](#xiao-esp32s3-sense "Top")<br>
