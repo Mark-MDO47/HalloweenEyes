@@ -5,6 +5,7 @@
 * [Arduino IDE setup](#arduino-ide-setup "Arduino IDE setup")
 * [Mods for Blink](#mods-for-blink "Mods for Blink")
 * [Mods for CameraWebServer](#mods-for-camerawebserver "Mods for CameraWebServer")
+* [Mods for SD_Test](#mods-for-sd_test "Mods for SD_Test")
 
 ## ESP32S3 Sense Information
 [Top](#xiao-esp32s3-sense "Top")<br>
