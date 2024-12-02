@@ -14,6 +14,10 @@ Images of XIAO ESP32S3 Sense and its pinouts are from https://www.seeedstudio.co
 
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Pinouts.png" width="600" alt="Pinouts for XIAO ESP32S3 Sense">
 
+<img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Pinouts_Back.png" width="600" alt="Pinouts for the back of the XIAO ESP32S3 Sense">
+
+<img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Pinouts_Camera.png" width="600" alt="Pinouts for the OV2640 camera for the XIAO ESP32S3 Sense">
+
 Thanks to **DroneBot Workshop** for their YouTube "XIAO ESP32S3 Sense - Tiny ESP32 Camera".
 - https://www.youtube.com/watch?v=qNzlytUdB_Q
 
