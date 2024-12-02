@@ -8,6 +8,8 @@
 
 ## ESP32S3 Sense Information
 [Top](#xiao-esp32s3-sense "Top")<br>
+Images of XIAO ESP32S3 Sense and its pinouts are from https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_IO.png" width="600" alt="Pinouts for XIAO ESP32S3 Sense">
 
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Pinouts.png" width="600" alt="Pinouts for XIAO ESP32S3 Sense">
