@@ -53,3 +53,7 @@ Pin 21 is used for the internal LED.<br>
 [Top](#xiao-esp32s3-sense "Top")<br>
 Choose the camera model for XIAO ESP32S3 Sense.<br>
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_ChooseCameraModel.png" width="600" alt="Choose the camera model for XIAO ESP32S3 Sense">
+
+## Mods for SD_Test
+
+<img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_mod4TestSD.png" width="600" alt="Specify SD Card pin for XIAO ESP32S3 Sense">
