@@ -8,12 +8,12 @@
 
 ## ESP32S3 Sense Information
 [Top](#xiao-esp32s3-sense "Top")<br>
-Thanks to **DroneBot Workshop** for their YouTube "XIAO ESP32S3 Sense - Tiny ESP32 Camera" from which I got this information!
-- https://www.youtube.com/watch?v=qNzlytUdB_Q
-
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_IO.png" width="600" alt="Pinouts for XIAO ESP32S3 Sense">
 
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Pinouts.png" width="600" alt="Pinouts for XIAO ESP32S3 Sense">
+
+Thanks to **DroneBot Workshop** for their YouTube "XIAO ESP32S3 Sense - Tiny ESP32 Camera".
+- https://www.youtube.com/watch?v=qNzlytUdB_Q
 
 As mentioned in this video, there are a couple of oddities you might see when using this module.
 
@@ -22,7 +22,7 @@ As mentioned in this video, there are a couple of oddities you might see when us
 
 2. After loading, the module may just not run. In this case, disconnect the USB cable and re-connect and it may start running. Otherwise, try re-loading.
 
-Honorable mentions also to the **techiesms** YouTube "Smallest Camera Module based on ESP32 S3 | XIAO ESP32S3 Sense"
+Also thanks to the **techiesms** YouTube "Smallest Camera Module based on ESP32 S3 | XIAO ESP32S3 Sense"
 - https://www.youtube.com/watch?v=_wvuOsRgmt4
 
 ## Arduino IDE setup
