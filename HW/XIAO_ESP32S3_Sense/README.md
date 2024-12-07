@@ -19,7 +19,7 @@ Images of XIAO ESP32S3 Sense and its pinouts are from https://www.seeedstudio.co
 
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_Pinouts_Camera.png" width="600" alt="Pinouts for the OV2640 camera for the XIAO ESP32S3 Sense">
 
-Following image frm https://wiki.seeedstudio.com/xiao_esp32s3_sense_filesystem/#prepare-the-microsd-card<br>
+Following image from https://wiki.seeedstudio.com/xiao_esp32s3_sense_filesystem/#prepare-the-microsd-card<br>
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_SDcard_IO.png" width="600" alt="Pinouts used for SD card slot of the XIAO ESP32S3 Sense">
 
 
