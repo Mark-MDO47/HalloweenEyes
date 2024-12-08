@@ -217,9 +217,9 @@ void setup() {
   SPI.begin(sck, miso, mosi, cs);
   if (!SD.begin(cs)) {
 #else
-  if (!SD.begin(21)) { // modification for XIAO ESP32S3 Sense
-                       // see https://wiki.seeedstudio.com/xiao_esp32s3_sense_filesystem/#prepare-the-microsd-card
-  }
+  // modification for XIAO ESP32S3 Sense
+  // see https://wiki.seeedstudio.com/xiao_esp32s3_sense_filesystem/#prepare-the-microsd-card
+  if (!SD.begin(21)) { 
 #endif
     Serial.println("Card Mount Failed");
     return;
