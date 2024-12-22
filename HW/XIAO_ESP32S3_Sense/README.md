@@ -28,10 +28,12 @@ Thanks to **DroneBot Workshop** for their YouTube "XIAO ESP32S3 Sense - Tiny ESP
 
 As mentioned in this video, there are a couple of oddities you might see when using this module.
 
-1. You may have trouble loading the module, getting "No serial data received" for example. In this case, use a toothpick or non-conducting probe to hold the "Boot" button down before inserting the USB cable and it may load again.<br>
+1. You may have trouble loading the module, getting "No serial data received" for example. In this case, use a toothpick or non-conducting probe to hold the "Boot" button down before inserting the USB cable and it may load again.
+    - if the yellow LED is blinking (not red) you might have this problem
+    - This problem may persist... :^(
 <img src="https://github.com/Mark-MDO47/HalloweenEyes/blob/master/HW/XIAO_ESP32S3_Sense/images/XIAO_ESP32S3_Sense_NoSerialDataRcvd.png" width="600" alt="XIAO ESP32S3 Sense getting No serial data received">
 
-2. After loading, the module may just not run. In this case, disconnect the USB cable and re-connect and it may start running. Otherwise, try re-loading.
+3. After loading, the module may just not run. In this case, disconnect the USB cable and re-connect and it may start running. Otherwise, try re-loading.
 
 Also thanks to the **techiesms** YouTube "Smallest Camera Module based on ESP32 S3 | XIAO ESP32S3 Sense"
 - https://www.youtube.com/watch?v=_wvuOsRgmt4
